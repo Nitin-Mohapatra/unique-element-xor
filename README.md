@@ -36,4 +36,3 @@ For example:
 ```
 Because
 2 ^ 2 ^ 2 = 2 (not 0)
-
